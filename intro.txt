@@ -4,4 +4,6 @@ repository is a depot
 'commit' means save
 you can see all the changes made in the commit with what is called 'history'
 
-this is a new branch of the whole repository, not only of this file
+this is a new branch of the whole repository, not only of this file. And now another branch
+
+do you like it? two lines where modified.
