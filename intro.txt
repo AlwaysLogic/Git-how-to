@@ -1,0 +1,3 @@
+Writing stuffs here to begin with, while creating the first file
+repository is a depot
+'commit' means save
