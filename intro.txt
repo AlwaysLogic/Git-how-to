@@ -1,10 +1,10 @@
-tick a box for readme at the beginning when create
+1)tick a box for readme at the beginning when create
 Writing stuffs here to begin with, while creating the first file
 repository is a depot
 'commit' means save
-change in the master now
+2)change in the master now
 you can see all the changes made in the commit with what is called 'history'
 
-this is a new branch of the whole repository, not only of this file. And now another branch
+3)this is a new branch of the whole repository, not only of this file. And now another branch
 
-do you like it? two lines where modified.
+4)do you like it? two lines where modified.
